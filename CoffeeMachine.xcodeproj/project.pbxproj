@@ -13,6 +13,7 @@
 		23768ECF25D7413F00DAF205 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23768ECD25D7413F00DAF205 /* Main.storyboard */; };
 		23768ED125D7414400DAF205 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23768ED025D7414400DAF205 /* Assets.xcassets */; };
 		23768ED425D7414400DAF205 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23768ED225D7414400DAF205 /* LaunchScreen.storyboard */; };
+		23768EDD25D742E600DAF205 /* CoffeeMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23768EDC25D742E600DAF205 /* CoffeeMachine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		23768ED025D7414400DAF205 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23768ED325D7414400DAF205 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23768ED525D7414400DAF205 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23768EDC25D742E600DAF205 /* CoffeeMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeMachine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				23768EC725D7413F00DAF205 /* AppDelegate.swift */,
 				23768EC925D7413F00DAF205 /* SceneDelegate.swift */,
+				23768EDC25D742E600DAF205 /* CoffeeMachine.swift */,
 				23768ECB25D7413F00DAF205 /* ViewController.swift */,
 				23768ECD25D7413F00DAF205 /* Main.storyboard */,
 				23768ED025D7414400DAF205 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 				23768ECC25D7413F00DAF205 /* ViewController.swift in Sources */,
 				23768EC825D7413F00DAF205 /* AppDelegate.swift in Sources */,
 				23768ECA25D7413F00DAF205 /* SceneDelegate.swift in Sources */,
+				23768EDD25D742E600DAF205 /* CoffeeMachine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
